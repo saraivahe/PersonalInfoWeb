@@ -23,3 +23,7 @@ Port: 443
 Custom Domain: personal-info-dev.com
 
 IIS Development certificate
+
+## 6. Once the site is running, you can confirm by open the following URL
+
+https://personal-info-dev.com
