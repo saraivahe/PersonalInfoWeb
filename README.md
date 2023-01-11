@@ -14,6 +14,8 @@ Usual file location: C:\Windows\System32\drivers\etc\
 
 ## 5. Add new site in IIS with the following configurations
 
+Choose the /build directory as the site path
+
 Protocol: HTTPS
 
 Port: 443
